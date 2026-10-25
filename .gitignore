@@ -1,0 +1,8 @@
+# 編譯產物
+.build/
+build/
+
+# 系統與 IDE
+.DS_Store
+.idea/
+*.xcodeproj/
